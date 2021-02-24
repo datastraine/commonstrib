@@ -1,0 +1,2 @@
+# Project_CSP
+CSP is a Facebook group and podcast of which I have access to their Facebook Data. I will employ various Data Science methods and tools (mostly Python) to explore the data and get insights. Initially I'll begin by cleaning various CSV files and finding general past trends (Buisness Intelligence) in the data. I will then move onto more inisghts and hypthosis deisgned to increase the group's/cast's reach to more people.# commonstrib
