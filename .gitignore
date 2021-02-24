@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+env.py
+*.csv
+*.pdf
+*.text
+*.zip
+IGNORE*
+__pycache__
